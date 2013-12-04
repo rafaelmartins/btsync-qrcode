@@ -1,0 +1,14 @@
+{
+    "name": "rafaelmartins/btsync-qrcode",
+    "description": "A simple PHP script that lists shared folder's secrets from a JSON configuration file as QR-code images.",
+    "require": {
+        "slim/slim": "2.*"
+    },
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Rafael G. Martins",
+            "email": "rafael@rafaelmartins.eng.br"
+        }
+    ]
+}
